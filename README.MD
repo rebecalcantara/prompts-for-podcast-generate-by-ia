@@ -3,8 +3,8 @@
 <p>
  <img 
       align=middle 
-      margin=60 
-      width=80 
+      margin=100 
+      width=180 
       src="https://github.com/rebecalcantara/prompts-for-podcast-generate-by-ia/blob/main/assets/79522480-282f-42af-8378-fbb0b0679b9b.png"
     />
     <p>
