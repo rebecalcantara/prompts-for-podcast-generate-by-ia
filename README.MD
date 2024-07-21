@@ -1,6 +1,13 @@
 # Projeto Podcast Gerado por I.A.s
 
-
+<p>
+ <img 
+      align=middle 
+      margin=60 
+      width=80 
+      src="https://github.com/rebecalcantara/prompts-for-podcast-generate-by-ia/blob/main/assets/79522480-282f-42af-8378-fbb0b0679b9b.png"
+    />
+    <p>
  > ℹ️ **NOTE:** Este é o repositório desenvolvido em uma aula na plataforma [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
